@@ -1,5 +1,5 @@
 {
-  "name": "angular-bootstrap-datetimepicker",
+  "name": "qb-angular-bootstrap-datetimepicker",
   "version": "0.0.0-semantic-release",
   "engines": {
     "node": ">=12"
@@ -44,14 +44,14 @@
     "travis-deploy-once": "travis-deploy-once"
   },
   "peerDependencies": {
-    "@angular/animations": ">=8.0.0",
-    "@angular/common": ">=8.0.0",
-    "@angular/compiler": ">=8.0.0",
-    "@angular/core": ">=8.0.0",
-    "@angular/forms": ">=8.0.0",
-    "@angular/platform-browser": ">=8.0.0",
-    "@angular/platform-browser-dynamic": ">=8.0.0",
-    "@angular/router": ">=8.0.0",
+    "@angular/animations": ">=16.1.7",
+    "@angular/common": ">=16.1.7",
+    "@angular/compiler": ">=16.1.7",
+    "@angular/core": ">=16.1.7",
+    "@angular/forms": ">=16.1.7",
+    "@angular/platform-browser": ">=16.1.7",
+    "@angular/platform-browser-dynamic": ">=16.1.7",
+    "@angular/router": ">=16.1.7",
     "moment": ">=2.0.0",
     "rxjs": ">=6.0.0",
     "zone.js": ">=0.9.1"
