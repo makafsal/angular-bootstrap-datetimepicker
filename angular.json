@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "angular-bootstrap-datetimepicker"
+  "defaultProject": "angular-bootstrap-datetimepicker",
+  "cli": {
+    "analytics": false
+  }
 }

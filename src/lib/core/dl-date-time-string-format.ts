@@ -1,15 +1,15 @@
-import {InjectionToken} from '@angular/core';
+import { InjectionToken } from '@angular/core';
 
-import * as _moment from 'moment';
+import * as moment from 'moment';
 
 /**
  * @internal
  */
-let moment = _moment;
+// let moment = _moment;
 /* istanbul ignore if */
-if ('default' in _moment) {
-  moment = _moment['default'];
-}
+// if ('default' in _moment) {
+//   moment = _moment['default'];
+// }
 
 /**
  * InjectionToken for string dates that can be used to override default model format.
